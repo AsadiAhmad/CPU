@@ -1,4 +1,4 @@
 # CPU
 cpu created by logisim.
 
-<img src="Picture/CPU.PNG">
+<img src="Picture/CPU.png">
